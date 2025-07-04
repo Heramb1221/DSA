@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Factors {
     public static void main(String[] args) {
-        factors3(20);
+        factors1(3);
     }
 
     // O(n)
